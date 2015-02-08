@@ -5,11 +5,13 @@ tagline: Loving-Learning-Sharing
 ---
 {% include JB/setup %}
 
-## About Me
+## 关于
 
 安静观察的阅跑者，里外如一，义无反顾，直奔标杆！——Jeremiah Zhang
 
-[我的微博](http://weibo.com/ZhangXiaowoStef)
+Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
+
+我的邮箱：zhangleisuda@foxmail.com
 
 ## 文章列表
 
