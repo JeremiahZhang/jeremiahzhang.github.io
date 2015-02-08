@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Single Mind - 直奔标竿
-tagline: Site Tagline
+title : Single Mind 
+tagline: 直奔标竿
 author :
   name : Jeremiah Zhang
   email : zhangleisuda@foxmail.com

@@ -5,6 +5,7 @@ tagline: "Jesus Faith"
 tags : [Jesus, Love , Humble]
 ---
 {% include JB/setup %}
+{% include themes/bootstrap-3/default.html %}
 
 # 谦卑靠主-靠主谦卑
 
