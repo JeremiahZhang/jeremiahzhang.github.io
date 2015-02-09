@@ -7,7 +7,8 @@ tagline: Loving-Learning-Sharing
 
 ## 关于
 
-安静观察的阅跑者，里外如一，义无反顾，直奔标杆！——Jeremiah Zhang
+安静观察的阅跑者，里外如一，义无反顾，直奔标杆！ 
+- Jeremiah Zhang
 
 Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
 
