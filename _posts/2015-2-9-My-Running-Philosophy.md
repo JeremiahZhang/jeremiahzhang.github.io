@@ -2,7 +2,7 @@
 layout: post
 category : 跑步
 tagline: "阅跑者"
-tags : [习惯, 成长]
+tags : [习惯, 成长, 科研]
 ---
 {% include JB/setup %}
 
@@ -19,7 +19,7 @@ tags : [习惯, 成长]
 
 ***
 
-## 身体感觉
+## 1-身体感觉
 
 为了膝盖的恢复，选择了蜗牛跑，近似快走，但是自己的膝盖还是有点酸痛，所以该太极跑，跑跑更健康！
 
@@ -28,7 +28,7 @@ tags : [习惯, 成长]
 
 ***
 
-## 跑步思考
+## 2-跑步思考
 
 初中，开始跑步，围绕着家门前邻居的四围，跑时也就20分钟的时间，那时天天早晨坚持跑步，冬天也跑，圈子很小；
 
@@ -38,18 +38,19 @@ tags : [习惯, 成长]
 
 ***
 
-## 关于科研
+## 3-关于科研
 
 科研的心态，也许也要放正了，不可以逃避。
 
-### 警醒
+### （1）警醒
 
 * 请记住自己的身份；
 * 请记住自己的跑步哲学：日日跑，日日进。
 
-### 建议
+### （2）建议
 
-参考[E.O.Wilson：给年轻科学家的建议](http://www.ted.com/talks/e_o_wilson_advice_to_young_scientists?language=zh-tw)
+* 参考[E.O.Wilson：给年轻科学家的建议](http://www.ted.com/talks/e_o_wilson_advice_to_young_scientists?language=zh-tw)
+* 阳老师的[科研十书](http://www.yangzhiping.com/psy/research-ten-book.html)
 
 #### 内容
 
@@ -71,14 +72,10 @@ tags : [习惯, 成长]
 * 对于任何一个学科的每一个问题, 都存在一个种类, 或实体, 或现象, 是它理想的解决方法. 相反, 对应任一个种类, 实体, 或现象, 都存在着一些问题 他们的解决方案都对应着一些特定的研究课题 找到这些研究课题你会找到你自己的方式来发现, 学习, 和教学.【尝试与生活结合，问题中发现存在方式，在存在方式中发现问题，研究，学习，成长】
 
 
-#### 总结
+## 总结
 
+* 认清自己的身份，坚持自己的跑步哲学；
 * 能力 + 兴趣 + 专注 = 卓越；
 * 刻苦己心是必须的；
 * 多元思维，开放接纳的心态；
 * 发现问题，解决问题，找到存在方式，学习成长。
-
-TED：
-
-<iframe src="https://embed-ssl.ted.com/talks/e_o_wilson_advice_to_young_scientists.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
