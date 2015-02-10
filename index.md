@@ -16,7 +16,7 @@ Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
 
 ## 宣言
 
-> As God is my bloody witness, I’m hell-bent on making it work. By [Elon Musk](http://en.wikipedia.org/wiki/Elon_Musk)
+> As God is my bloody boss, I’m hell-bent on running for him. 
 
 ## 文章列表
 
