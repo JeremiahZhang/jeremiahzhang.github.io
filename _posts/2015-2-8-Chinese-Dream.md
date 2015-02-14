@@ -1,7 +1,7 @@
 ---
 layout: post
 category : 跑步
-tagline: "阅跑者"
+tagline: "悦跑者"
 tags : [习惯, 成长]
 ---
 {% include JB/setup %}

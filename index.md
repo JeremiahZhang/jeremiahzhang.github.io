@@ -10,9 +10,13 @@ tagline: Loving-Learning-Sharing
 安静观察的悦跑者，里外如一，义无反顾，直奔标杆！ 
 - Jeremiah Zhang
 
+> 心中安静，是肉体的生命 - 【箴言14：30】  
+
 Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
 
 我的邮箱：zhangleisuda@foxmail.com
+
+Favorite Movie：[Forrest Gump](http://movie.douban.com/subject/1292720/)
 
 ## 宣言
 
