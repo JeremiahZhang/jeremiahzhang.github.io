@@ -2,7 +2,7 @@
 layout: post
 category : 灵修
 tagline: "Jesus Faith"
-tags : [信仰, 电影]
+tags : [信仰, 电影, 写作思考]
 ---
 {% include JB/setup %}
 
