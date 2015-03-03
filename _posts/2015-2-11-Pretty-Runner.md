@@ -2,7 +2,7 @@
 layout: post
 category : 跑步
 tagline: "悦跑者"
-tags : [习惯, 成长]
+tags : [跑步迷思]
 ---
 {% include JB/setup %}
 

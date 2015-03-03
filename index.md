@@ -7,7 +7,7 @@ tagline: Loving-Learning-Sharing
 
 ## 关于我
 
-安静观察的悦跑者，里外如一，义无反顾，直奔标竿！ 
+只不过是一个人。 
 - Jeremiah Zhang
 
 > 心中安静，是肉体的生命 - 【箴言14：30】  
