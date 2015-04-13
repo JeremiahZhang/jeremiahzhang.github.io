@@ -1,26 +1,34 @@
 ---
 layout: page
-title: Single Mind
-tagline: 雷雨Jeremiah's Blog
+title: 【直奔标竿】
+tagline: Loving-Learning-Sharing
 ---
 {% include JB/setup %}
 
-{% for post in site.posts %}
-<div class = "card">
-		<div  class = "date_label">
-			<div class="day_month">
-      			{{ post.date | date:"%m/%d" }}
-      			</div>
-      			<div class="year">
-      			{{ post.date | date:"%Y" }}
-      			</div>
-      		</div> 
-		{{ post.content  | | split:'<!--break-->' | first }}
-	<div class = "read_more">
-		<a class="fa fa-link" href="{{ BASE_PATH }}{{ post.url }}">  查看全文&hellip;</a>
-	</div>
-	
-</div>
+## 关于我
 
-{% endfor %}
+只不过是一个人。 
+- Jeremiah Zhang
+
+> 心中安静，是肉体的生命 - 【箴言14：30】  
+
+Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
+
+我的邮箱：zhangleisuda@foxmail.com
+
+Favorite Movie：[Forrest Gump](http://movie.douban.com/subject/1292720/)
+
+## 宣言
+
+> As God is my bloody boss, I’m hell-bent on running for him. 
+
+## 文章列表
+
+<ul class="posts">
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+
 

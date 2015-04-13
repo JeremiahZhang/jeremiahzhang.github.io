@@ -17,8 +17,7 @@
     <!-- Le styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="{{ ASSET_PATH }}/css/prettify.css" rel="stylesheet" type="text/css">
-    <script src="{{ ASSET_PATH }}/js/prettify.js"></script>
+
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -30,17 +29,14 @@
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
-    
-<!--    font-awesome-->
-<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-  
+
   </head>
 
-  <body onload="prettyPrint()">
+  <body>
     <div class="navbar">
       <div class="navbar-inner">
-       <div class="nav-narrow">
-          <a class="brand" href="{{ HOME_PATH }}"><span class="fa fa-mortar-board (alias)">{{ site.title }}</span></a>
+        <div class="container-narrow">
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
@@ -55,15 +51,12 @@
       <div class="content">
         {{ content }}
       </div>
-      
-      <footer class="card clearfix">
-        <span style="font-size:30px;"class="fa fa-github pull-left"></span><a href="https://github.com/applegrandpa/applegrandpa.github.io" style="display:inline-block;padding-right:80px;border-right:1px solid #bbb">fork me on GitHub</a>
-        <p class="pull-right">&copy; 2015 {{ site.author.name }}
-          with help from <a href="https://github.com/clover0319" target="_blank">clover,</a> <a href="https://github.com/enml" target="_blank">enml,</a>
-		  <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+      <hr>
+      <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
           and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
         </p>
-        
       </footer>
 
     </div>
