@@ -1,6 +1,6 @@
 ---
 layout: post
-category : 灵修
+category : 思考
 tagline: "Jesus Faith"
 tags : [信仰, 电影, 写作思考]
 ---
