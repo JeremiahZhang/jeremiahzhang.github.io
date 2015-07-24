@@ -7,6 +7,7 @@ tagline: Loving-Learning-Sharing
 
 ## 关于我
 
+- Jeremiah Zhang (网名：雷雨Jeremiah)
 - Long-Life Learner 
 - 关注领域：编程、人工智能、机器学习、教育
 
