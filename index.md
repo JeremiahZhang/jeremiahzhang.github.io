@@ -7,10 +7,10 @@ tagline: Loving-Learning-Sharing
 
 ## 关于我
 
-只不过是一个人。 
-- Jeremiah Zhang
+- Long-Life Learner 
+- 关注领域：编程、人工智能、机器学习、教育
 
-> 心中安静，是肉体的生命 - 【箴言14：30】  
+> 你要保守你心，胜过保守一切，因为一生的果效是由心发出 - 【箴言4：23】  
 
 Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
 
