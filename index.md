@@ -7,21 +7,20 @@ tagline: Loving-Learning-Sharing
 
 ## 关于我
 
-- Jeremiah Zhang (网名：雷雨Jeremiah)
-- Long-Life Learner 
-- 关注领域：编程、人工智能、机器学习、教育
+- Jeremiah Zhang (雷雨Jeremiah)
+- Long-Life Learner、阅跑者
+- 关注领域：机器学习、人工智能、教育、心理学
+- 爱好：跑步、骑行、阅读
+- Favorite Movie：[Forrest Gump](http://movie.douban.com/subject/1292720/)
 
-> 你要保守你心，胜过保守一切，因为一生的果效是由心发出 - 【箴言4：23】  
+> - 你要保守你心，胜过保守一切，因为一生的果效是由心发出 - 【箴言4：23】  
 
-Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
+### 联系 ###
 
-我的邮箱：zhangleisuda@foxmail.com
+- Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)  
+- 我的邮箱：zhangleisuda@foxmail.com
 
-Favorite Movie：[Forrest Gump](http://movie.douban.com/subject/1292720/)
-
-## 宣言
-
-> As God is my bloody boss, I’m hell-bent on running for him. 
+----------
 
 ## 文章列表
 
