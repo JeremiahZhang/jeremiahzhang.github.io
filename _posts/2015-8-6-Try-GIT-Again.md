@@ -11,7 +11,7 @@ tags : [GIT]
 自从建好自己的博客以来，就没有怎么用GIT了，只是偶尔更新文件就一直使用：  
 
 - git add --a  
-- git commit -m " add poster"  
+- git commit -m " add new poster"  
 - git push origin master  
 
 然后以前学得不怎么就忘记了，看来是时候建立自己的学习记录。
@@ -26,6 +26,7 @@ tags : [GIT]
 	- [Git Real](http://gitreal.codeschool.com/levels/1)
 	- [廖雪峰GIT教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 	- [git book](http://git-scm.com/book/en/v2)
+	- [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
 - 帮助
 	- [help github](https://help.github.com/)
 	- [git document](http://git-scm.com/docs)
@@ -43,6 +44,10 @@ tags : [GIT]
 ### Level 1 ###
 
 - git help 不懂的命令可以直接git help 去查询
+- 设置GIT
+	- git config --global user.name "jeremiahzhang"
+	- git config --global user.email zhangleisuda@hotmail.com
+	- git config --global color.ui true  %% 设置命令行颜色
 - git init：初始化GIT repository，将目录变为GIT可以管理的仓库  
     `$ mkdir gitlearn 	%% 【创建空目录】 `   
 	`$ cd gitlearn	%% 【打开】`  
@@ -66,10 +71,14 @@ tags : [GIT]
     `$ git add docs/*.txt  %% 添加docs目录中所有txt文件`
     `$ git add docs/  %% 添加docs目录中所有文件`
     `$ git add "*.txt"  %% 添加当前项目中所有txt文件`
+- git log %% 使用查看记录
 
 #### 总结-01 ####
 
+- 设置GIT 
+	- it help
+	- git config
 - git status的使用，查看那些更新或修改
 - git add
 - git commit 每一次完成修改之后，及时commit，相当于git“截图”，截取时间节点，方便以后版本回退。
-
+- git log %% 使用查看记录
