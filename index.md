@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 【直奔标竿】
+title: Single Mind
 tagline: Loving-Learning-Sharing
 ---
 {% include JB/setup %}
@@ -9,7 +9,7 @@ tagline: Loving-Learning-Sharing
 
 - Jeremiah Zhang (雷雨Jeremiah)
 - Long-Life Learner、阅跑者
-- 关注领域：机器学习、人工智能、教育、心理学
+- 关注领域：机器学习、教育、心理学
 - 爱好：跑步、骑行、阅读
 - Favorite Movie：[Forrest Gump](http://movie.douban.com/subject/1292720/)
 
