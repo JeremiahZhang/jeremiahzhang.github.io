@@ -8,8 +8,8 @@ tagline: Loving-Learning-Sharing
 ## 关于我
 
 - Jeremiah Zhang (雷雨Jeremiah)
-- Long-Life Learner、阅跑者
-- 关注领域：机器学习、教育、心理学
+- 成长学习中的基督徒、Long-Life Learner、阅跑者
+- 关注领域：教育、机器学习、心理学
 - 爱好：跑步、骑行、阅读
 - Favorite Movie：[Forrest Gump](http://movie.douban.com/subject/1292720/)
 
