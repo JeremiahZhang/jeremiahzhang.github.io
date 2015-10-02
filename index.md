@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Single Mind
+title: Renew Mind
 tagline: Loving-Learning-Sharing
 ---
 {% include JB/setup %}
