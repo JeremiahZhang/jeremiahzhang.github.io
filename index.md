@@ -18,7 +18,7 @@ tagline: Loving-Learning-Sharing
 ### 联系 ###
 
 - Sina微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)  
-- 我的邮箱：zhangleisuda@hotmail.com
+- 我的邮箱：zhangleisuda@gmail.com
 
 ----------
 
