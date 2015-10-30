@@ -46,11 +46,13 @@ tags : [思考]
 
 以上 pyenv 的确好使啊！
 
-环境配置好了 继续python star trek
+环境配置好了 继续[Python Star Trek](https://jeremiahzhang.gitbooks.io/omooc2py/content/) 
 
 ## 总
 
 Ubuntu 刚上手 有点不适应 慢慢适应就好了 接下来 不用win啦 开心
+
+星期五, 30. 十月 2015 08:10下午 
 
 
 
