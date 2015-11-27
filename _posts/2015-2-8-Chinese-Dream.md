@@ -1,8 +1,8 @@
 ---
 layout: post
-category : 跑步
-tagline: "悦跑者"
-tags : [跑步迷思]
+category : 思考
+tagline: "向黑客学习"
+tags : [随想, 跑步]
 ---
 {% include JB/setup %}
 

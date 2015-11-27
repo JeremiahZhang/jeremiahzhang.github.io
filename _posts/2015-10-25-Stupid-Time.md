@@ -1,8 +1,8 @@
 ---
 layout: post
-category : 编程
-tagline: "悦跑者"
-tags : [思考]
+category : 成长
+tagline: "向黑客学习"
+tags : [编程, 思维]
 ---
 {% include JB/setup %}
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-category : 英语
-tagline: "English learning"
-tags : [学习]
+category : 技术
+tagline: "向黑客学习"
+tags : [语言]
 ---
 {% include JB/setup %}
 

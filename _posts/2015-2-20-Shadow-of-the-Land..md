@@ -1,8 +1,8 @@
 ---
 layout: post
 category : 思考
-tagline: "Jesus Faith"
-tags : [信仰, 电影, 写作思考]
+tagline: "向黑客学习"
+tags : [随想]
 ---
 {% include JB/setup %}
 

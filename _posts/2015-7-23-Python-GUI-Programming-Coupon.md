@@ -1,11 +1,10 @@
 ---
 layout: post
-category : 编程
-tagline: "悦跑者"
-tags : [Python]
+category : 技术
+tagline: "向黑客学习"
+tags : [编程]
 ---
 {% include JB/setup %}
-
 ## 缘起 ##
 
 今日收到Udemy员工的邮件，Ta偶遇我的blog，然后就给了这门[Python GUI Programming](https://www.udemy.com/python-gui-programming/)课程的Coupon，code就是本站网址(jeremiahzhang.github.io).感兴趣的朋友可以注册使用coupon去免费参与学习（前50名有效）.
