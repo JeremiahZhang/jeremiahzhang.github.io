@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Renew Mind
+title: Renew Mind Lab
 tagline: Loving-Learning-Sharing
 ---
 {% include JB/setup %}
@@ -21,20 +21,20 @@ tagline: Loving-Learning-Sharing
 	- 阅读
 	- 编程
 - 警醒
-	
-> 你要保守你心，胜过保守一切，因为一生的果效是由心发出 - 【箴言4：23】  
+
+> 你要保守你心，胜过保守一切，因为一生的果效是由心发出 - 【箴言4：23】
 
 ### 联系 ###
 
-- 邮箱: zhangleisuda@gmail.com   
-- Github: [@Jeremiahzhang](https://github.com/JeremiahZhang)    
-- 微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)    
-- 豆瓣: [雷雨Jeremiah](http://www.douban.com/people/jesuslovingyou/) 
+- 邮箱: zhangleisuda@gmail.com
+- Github: [@Jeremiahzhang](https://github.com/JeremiahZhang)
+- 微博:[@雷雨Jeremiah](http://weibo.com/ZhangXiaowoStef)
+- 豆瓣: [雷雨Jeremiah](http://www.douban.com/people/jesuslovingyou/)
 
 
 ***
 
-## (￣▽￣) 
+## (￣▽￣)
 [如何成为一名黑客](http://translations.readthedocs.org/en/latest/hacker_howto.html#id3)
 > 你必须建立对于自己学习能力的信念——就算你掌握的知识不足以解决当前的问题，如果你从问题的一小部分下手并从中学习，你将学到足够的知识用来解决下一部分——以此类推，直到整个问题都被你解决为止。
 
