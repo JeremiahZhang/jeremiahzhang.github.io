@@ -6,7 +6,7 @@ tags : [阅读, 思维]
 ---
 {% include JB/setup %}
 
-# Pragmatic Thinking and 
+# XXX的思维修炼
 
 ![豆瓣书籍图片](https://img2.doubanio.com/lpic/s4548399.jpg) 
 
