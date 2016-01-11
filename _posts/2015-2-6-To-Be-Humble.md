@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: To be humble
-category: 思考
+category: Thinking
 tags: [ 'Faith' ]
 ---
 
