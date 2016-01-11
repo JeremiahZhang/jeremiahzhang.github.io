@@ -33,7 +33,7 @@ author: "Jeremiah Zhang"
 title: "{ Renew Mind Lab }"
 description: "Blog of Jeremiah Zhang, blogging mainly for tech. Opinions expressed are mine."
 keywords: "education, technology, mind, faith, love, painting"
-favicon: "/img/favicon.ico"
+favicon: "/img/jeremiah-favicon.ico"
 404-img: "/img/labtocat.png"
 
 ################
@@ -42,7 +42,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/the-cross-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
