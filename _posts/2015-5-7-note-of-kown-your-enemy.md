@@ -3,9 +3,8 @@ layout: post
 section-type: post
 title: booknote of Know your enemy
 category: mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
-
 无意中看到《认识你的敌人》这本书，连续花了7h读完此书，了解了这个世界背后的一些事实，刷新了我的世界观。附[电子版](http://www.ufochn.com/thread-18406-1-1.html)
 
 # 大纲 #

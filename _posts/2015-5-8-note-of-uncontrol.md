@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: book note of Out of Control
+title: booknote of Out of Control
 category: mind
 tags: [ 'reading' ]
 ---
