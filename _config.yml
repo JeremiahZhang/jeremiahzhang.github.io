@@ -80,9 +80,9 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-post-preview-words: 96
+post-preview-words: 50
 
-paginate: 5
+paginate: 7
 
 email-share: True
 fb-share: True
@@ -90,10 +90,10 @@ twitter-share: True
 linkedin-share: True
 reddit-share: True
 google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 disqus-shortname: "LeiyuZhang"
 
