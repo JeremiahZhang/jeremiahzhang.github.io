@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: Galatians
+title: galatians
 category: Thinking
-tags: [ 'reading' ]
+tags: [ 'reading', 'faith' ]
 ---
 
 # 【思考-写作-教导】
