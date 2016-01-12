@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: book: Advice for a Young Investigator
+title: booknote of Advice for a Young Investigator
 category: mind
 tags: [ 'reading']
 ---

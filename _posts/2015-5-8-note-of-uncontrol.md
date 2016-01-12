@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: book: out of control
+title: book note of Out of Control
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 <center>
 ![out of control](http://img3.douban.com/lpic/s4554820.jpg)

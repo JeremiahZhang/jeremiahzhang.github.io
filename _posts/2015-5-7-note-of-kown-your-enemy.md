@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: book: Know your enemy
+title: booknote of Know your enemy
 category: mind
 tags: [ 'reading']
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: book: Takeo Kanade
+title: booknote of Takeo Kanade book
 category: mind
 tags: [ 'reading']
 ---

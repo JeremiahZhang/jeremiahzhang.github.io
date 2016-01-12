@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: book: learn to fly in the wild
+title: booknote of learn to fly in the wild
 category: Mind
 tags: [ 'reading']
 ---
