@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: my running philosophy
 category: Mind
-tags: [ 'thinking', ‘running’ ]
+tags: [ 'thinking', 'running' ]
 ---
 # 跑步哲学
 

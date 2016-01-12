@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: running review
-category: Mind
+category: mind
 tags: [ 'thinking', 'running' ]
 ---
 # 跑步的回忆 #

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: pretty runner
 category: Mind
-tags: [ 'thinking', ‘running’ ]
+tags: [ 'thinking', 'running' ]
 ---
 ## 身体感觉
 
