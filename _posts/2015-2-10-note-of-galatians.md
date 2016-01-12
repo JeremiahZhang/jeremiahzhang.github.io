@@ -2,12 +2,9 @@
 layout: post
 section-type: post
 title: galatians
-category: Thinking
+category: mind
 tags: [ 'reading', 'faith' ]
 ---
-
-# 【思考-写作-教导】
-
 [马丁-路德(1483-1546)](http://en.wikipedia.org/wiki/Martin_Luther)的《<加拉太书>注释》，500年前的经典之作，对于理解圣经对信徒有很大的帮助。
 
 ## 1-论读书方法

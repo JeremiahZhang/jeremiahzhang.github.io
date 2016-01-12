@@ -2,10 +2,9 @@
 layout: post
 section-type: post
 title: to be humble
-category: Thinking
+category: mind
 tags: [ 'faith' ]
 ---
-
 一直在思索如何谦卑，谦卑靠主，靠主谦卑。
 
 加尔文提到：
