@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: python beginner
 category: tech
-tags: [ 'python']
+tags: [ 'python' ]
 ---
 
 ## 【极简入门】

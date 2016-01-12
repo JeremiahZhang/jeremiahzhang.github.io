@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: how to learn 1.0
 category: Mind
-tags: [ 'thinking']
+tags: [ 'thinking' ]
 ---
 今天在Quora上面看到一个问题,[How do I learn to code?](http://www.quora.com/How-do-I-learn-to-code-1)，其中Roshan Choxi的回答，对于学习帮助。
 

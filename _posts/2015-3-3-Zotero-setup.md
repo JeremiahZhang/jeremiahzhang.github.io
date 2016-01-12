@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: zetero setup
 category: tech
-tags: [ 'python']
+tags: [ 'python' ]
 ---
 
 # Zotero安装配置 #

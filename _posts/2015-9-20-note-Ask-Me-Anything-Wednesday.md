@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Note of Ask Me Anything Wednesday
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 学习-开问星期三 #
 

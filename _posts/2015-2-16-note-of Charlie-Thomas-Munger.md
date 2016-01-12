@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: note of Charlie Thomas Munger psychology
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 
 # 人类误判心理学

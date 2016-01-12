@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: ubuntu install
 category: tech
-tags: [ 'python']
+tags: [ 'python' ]
 ---
 
 # Ubuntu 安装 #

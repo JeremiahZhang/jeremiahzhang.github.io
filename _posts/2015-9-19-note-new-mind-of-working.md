@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: note new mind of working
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 互联网时代的应对#
 

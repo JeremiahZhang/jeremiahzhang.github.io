@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: booknote of Advice for a Young Investigator
 category: mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 孔多塞曰：
 

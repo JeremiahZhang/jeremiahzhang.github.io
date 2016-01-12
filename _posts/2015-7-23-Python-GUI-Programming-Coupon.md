@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: python gui programming coupon
 category: tech
-tags: [ 'python']
+tags: [ 'python' ]
 ---
 ## 缘起 ##
 

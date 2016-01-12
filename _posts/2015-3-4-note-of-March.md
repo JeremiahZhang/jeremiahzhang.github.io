@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: book of March
 category: mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 书目:
 

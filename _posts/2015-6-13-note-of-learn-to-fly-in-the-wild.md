@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: booknote of learn to fly in the wild
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 在旷野中学飞 #
 

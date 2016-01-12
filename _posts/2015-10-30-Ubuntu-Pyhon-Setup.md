@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: python setup in ubuntu
 category: tech
-tags: [ 'python']
+tags: [ 'python' ]
 ---
 # Ubuntu Python 环境配置
 

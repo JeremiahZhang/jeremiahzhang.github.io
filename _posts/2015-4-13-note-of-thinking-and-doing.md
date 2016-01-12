@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: booknote of Takeo Kanade book
 category: mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 在图书馆无意看到这本书，作者是一位研究机器人的科学家-金出武雄教授[http://en.wikipedia.org/wiki/Takeo_Kanade](http://en.wikipedia.org/wiki/Takeo_Kanade "wiki")[博客][https://sites.google.com/site/chiehchihbobwang/home](https://sites.google.com/site/chiehchihbobwang/home)，他根据自己几十年的科研和教学体验，将日常研究和生活事例作为论据，讲解了，外行思考，专家实践的科研之道，但本书不仅适用于科研，也使用于生活，因为思维本是相通的。
 

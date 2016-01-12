@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: book note of A hiding place
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 密室 #
 

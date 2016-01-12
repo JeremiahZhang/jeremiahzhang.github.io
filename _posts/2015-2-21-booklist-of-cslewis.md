@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: booklist of C.S.Lewis
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 因为想用好英语，学好英语，采用了《把你的英语用起来！》中的学习方法，然后开始阅读纳尼亚传奇的原版书籍，看了前3本原著，看了3部纳尼亚的电影，然后对路易斯慢慢的了解，这样一个牛津人，从放弃信仰，到重新回到主里面，我想全部了解这个人，那么阅读他的著作是最好的了解。
 

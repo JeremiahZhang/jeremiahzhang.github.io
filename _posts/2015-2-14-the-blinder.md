@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: the blinder
 category: Mind
-tags: [ 'faith']
+tags: [ 'faith' ]
 ---
 感谢教会的青年团契的学习，感谢上帝的怜悯，感谢上帝的话语。
 

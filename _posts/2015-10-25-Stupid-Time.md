@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: the stupid time
 category: Mind
-tags: [ 'python', 'thinking']
+tags: [ 'python', 'thinking' ]
 ---
 
 # 笨功夫 #

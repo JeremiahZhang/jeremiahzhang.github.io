@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: communicate effectively
 category: Mind
-tags: [ 'thinking']
+tags: [ 'thinking' ]
 ---
 
 5/17/2015 4:00:01 PM 

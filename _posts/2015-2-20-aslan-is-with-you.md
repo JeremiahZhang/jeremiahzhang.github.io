@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: aslan is always here
 category: mind
-tags: [ 'thinking', ‘faith’]
+tags: [ 'thinking', ‘faith’ ]
 ---
 电影纳尼亚3 观后感
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: to get wisdom is a moral responsibility
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # **第十讲** 获得智慧是一种道德责任
 

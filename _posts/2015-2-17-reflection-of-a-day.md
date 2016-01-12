@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: one day
 category: Mind
-tags: [ 'thinking']
+tags: [ 'thinking' ]
 ---
 一日不读书，不思考，没有输入就没有输出。
 

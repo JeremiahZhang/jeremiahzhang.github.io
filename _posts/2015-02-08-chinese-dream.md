@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: when i'm running what i'm thinking
 category: Mind
-tags: [ 'thinking', 'running']
+tags: [ 'thinking', 'running' ]
 ---
 我爱上跑步
 当跑步成为习惯，慢慢地生活也变得愉悦！

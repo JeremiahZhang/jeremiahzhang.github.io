@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Book-Pascal
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 ## 感想 ##
 

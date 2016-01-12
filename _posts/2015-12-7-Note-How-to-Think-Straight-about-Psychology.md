@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: book note of how to think straight about psychology
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 这才是心理学
 

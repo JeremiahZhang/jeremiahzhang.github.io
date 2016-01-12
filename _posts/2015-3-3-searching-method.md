@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: the method of searching
 category: tech
-tags: [ 'python']
+tags: [ 'python' ]
 ---
 之前也学过一点搜索的技巧，但是不用就忘记了，补上，做个笔记。  
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: book note of pragmatic thinking and learning
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # XXX的思维修炼
 

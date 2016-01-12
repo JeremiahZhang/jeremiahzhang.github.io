@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: learning english
 category: Mind
-tags: [ 'thinking']
+tags: [ 'thinking' ]
 ---
 
 ## 重要性

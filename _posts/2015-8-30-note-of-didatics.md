@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: book note of Didatics
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 师法自然 #
 

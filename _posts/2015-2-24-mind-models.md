@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: mind models
 category: Mind
-tags: [ 'reading']
+tags: [ 'reading' ]
 ---
 # 关于现实思维的现实思考
 

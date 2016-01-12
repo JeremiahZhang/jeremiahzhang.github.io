@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: shadow of the land about jesus
 category: Mind
-tags: [ 'thinking']
+tags: [ 'thinking' ]
 ---
 [影子大地 Shadowlands (1993)](http://movie.douban.com/subject/1296067/)
 

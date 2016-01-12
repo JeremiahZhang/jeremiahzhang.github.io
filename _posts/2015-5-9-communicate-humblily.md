@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: communicate humblily
 category: Mind
-tags: [ 'thinking']
+tags: [ 'thinking' ]
 ---
 5/9/2015 10:46:00 AM 
 
