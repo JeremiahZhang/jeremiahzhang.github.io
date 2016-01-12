@@ -53,8 +53,8 @@ shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
-delete-delay: 5000
+start-delay: 2000
+delete-delay: 50000
 lines: # You can add HTML Tags in the Text
   - text: "Be not conformed to this world: "
   - text: "but be ye transformed by the renewing of your mind"
