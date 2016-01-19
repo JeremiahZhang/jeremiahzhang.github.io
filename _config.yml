@@ -94,7 +94,7 @@ tumblr-share: False
 pinterest-share: False
 pocket-share: False
 vkontakte-share: False
-douban-share:True
+# douban-share:True
 
 disqus-shortname: "LeiyuZhang"
 
