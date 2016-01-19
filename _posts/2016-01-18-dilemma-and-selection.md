@@ -1,10 +1,11 @@
 ---
 layout: post
 section-type: post
-title: 生命是长期而持续的累积
+title: the dilemma and selection 
 category: Mind
 tags: [ 'reading', 'life' ]
 ---
+# 生命是长期而持续的累积
 ## 缘起
 
 1.17日在整理2016年的阅读清单时，重读阳老师的旧文-[再见，2014（上）](http://www.yangzhiping.com/psy/bye2014-01.html) 看到在【中年危机】中提到的三位台湾老师：吴静吉、蔡志浩与彭明辉及他们的三本书《青年的四个大梦》、《人生从解决问题开始》和《生命是长期而持续的累积》，就立即去市图书馆借到最后一本书，今日花了一个下午的时间读过。
