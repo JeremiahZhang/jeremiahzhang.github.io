@@ -46,6 +46,8 @@ tags: [ 'reading', 'life' ]
 
 ## Sum
 
+![四个大梦](https://dn-jeremiahzhang.qbox.me/4dreamsofyouth.jpg) 
+
 > 人生的危机与梦想确实也有密切的关联
 
 [Herman Hesse](https://en.wikipedia.org/wiki/Hermann_Hesse) : 
