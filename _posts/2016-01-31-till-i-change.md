@@ -31,6 +31,7 @@ C.S.Lewis 评定阅读的功能：
 这1月，小子匆匆阅读以下9本书
 
 - 如何阅读一本书
+- Surprised by Joy
 - [生命是长期而持续的累积](https://jeremiahzhang.github.io/mind/2016/01/18/dilemma-and-selection.html)
 - [青年的四个大梦](https://jeremiahzhang.github.io/mind/2016/01/20/4-great-dreams-of-youth.html)
 - [改变](https://jeremiahzhang.github.io/mind/2016/01/19/change.html)
