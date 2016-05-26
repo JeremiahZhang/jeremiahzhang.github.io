@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "Jeremiah Zhang"
-title: "Jeremiah Zhang"
-description: "Blog of Jeremiah Zhang, blogging mainly for tech. Opinions expressed are mine."
+author: "Tolif Anifacc"
+title: "Tolif Anifacc"
+description: "Blog of Tolif Anifacc, blogging mainly for tech. Opinions expressed are mine."
 keywords: "education, technology, mind, faith, love, painting"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
