@@ -29,9 +29,9 @@ force-https: True
 #############
 
 lang: "en"
-author: "Tolif Anifacc"
-title: "Tolif Anifacc"
-description: "Blog of Tolif Anifacc, blogging mainly for tech. Opinions expressed are mine."
+author: "Jeremy Anifacc"
+title: "Jeremy Anifacc"
+description: "Blog of Jeremy Anifacc, blogging mainly for tech. Opinions expressed are mine."
 keywords: "education, technology, mind, faith, love, painting"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -105,11 +105,14 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/wx.jpg"
+    date: "July 2016 - Now"
+    description: "Test Engineer and Mastering Engineering"
   - image: "/img/timeline/baracktocat.jpg"
     date: "October 2015 - Now"
     description: "Using Python to find a new world!"
   - image: "/img/timeline/scut.jpg"
-    date: "September 2012 - Today"
+    date: "September 2012 - June 2016"
     description: "Major in Vehicle Engineering and Saving myself!"
   - image: "/img/timeline/soochow.jpg"
     date: "September 2008 - August 2012"
